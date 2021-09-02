@@ -5,6 +5,7 @@ List in markdown of tool I like using for labs or in production (! a lot of pyth
 ## Maths & science
 
 [Numpy](https://numpy.org/)
+[Biopython](https://biopython.org/)
 
 ## Machine learning
 
@@ -21,6 +22,7 @@ List in markdown of tool I like using for labs or in production (! a lot of pyth
 ## Frontend
 
 [Svelte](https://svelte.dev/)
+[Plotly](https://plotly.com/)
 
 ## Databases
 
@@ -29,6 +31,7 @@ List in markdown of tool I like using for labs or in production (! a lot of pyth
 ## Tools (in code)
 
 [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[JAX](https://github.com/google/jax)
 
 ## Tools (CLI or other)
 
@@ -38,3 +41,13 @@ List in markdown of tool I like using for labs or in production (! a lot of pyth
 
 [Cirq](https://quantumai.google/cirq)
 [qsim and qsimh](https://quantumai.google/qsim)
+
+## Blog posts for learning things
+
+[Comprendre les réseaux de neurones](https://moncoachdata.com/blog/comprendre-les-reseaux-de-neurones/)
+[Modèles de machine learning expliqués](https://moncoachdata.com/blog/modeles-de-machine-learning-expliques/)
+[Deepl Learning Spesialization](https://towardsdatascience.com/the-deep-learning-specialization-2503b9ee7ff6)
+
+## DIY
+
+[Google Coral AI Vision](https://www.youtube.com/watch?v=bOYWx1jJCZo)
